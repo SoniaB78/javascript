@@ -19,6 +19,9 @@ if ((prenomBDD === prenomPrompt) && (ageBDD === agePrompt)){
 */
 // l'opérateur || ou OR permet de rentrer dans la condition si au moins une des deux est vrai
 
+if ((prenomBDD === prenomPrompt) || (ageBDD === agePrompt)){
+    // code si une des 2 conditions est validée
+}
 => si A est FAUX et B est VRAI => VRAI
 => si A est VRAI et B est FAUX => VRAI
 => si A est FAUX et B est FAUX => FAUX
