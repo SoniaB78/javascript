@@ -72,7 +72,7 @@ var aBoolean = false; // ou à l'inverse true
     Contrairement à une variable après affectation (de valeur) on ne pourra plus la modifier
 */
 // Par convention les constantes sont en majuscules
-const PAYS = "France"; 
+const PAYS = "France";
 const AN = '2020';
 const BIRTH = 2020;
 
