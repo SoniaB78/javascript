@@ -20,7 +20,7 @@
 
 // boucle + condition + boucle
 var choix = prompt("Choisis un nombre entre 2 et 9:");
-while ((choix > 1) || (choix < 10)) {
+while ((choix > 1) || (choix < 10)) {/* Boucle infinie */
     if ((choix >= 2) && (choix <= 9)) {
         for (var i = 1; i <= 10; i++) {
             var resultat = choix * i;
