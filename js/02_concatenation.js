@@ -11,9 +11,9 @@ console.log(calcul);
 document.write(calcul + "<br>"); // affiche le résultat sur la page avec un br
 
 var mois = "7";
-var calcul2 = annee + mois;
-console.log(calcul2);
-document.write(calcul2 + "<br>")
+var calcul2 = annee + mois; 
+console.log(calcul2);// affiche 20177
+document.write(calcul2 + "<br>")// affiche 20177
 
 var debutPhrase = "Aujourd'hui ";
 var nbStagiaires = 11;
